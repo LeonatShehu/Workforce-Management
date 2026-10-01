@@ -1,6 +1,6 @@
 # Workforce Management Analytics
 
-An end-to-end workforce analytics project built on a simulated Workforce Management environment. It analyzes employee schedules, attendance, workload, productivity and KPI performance using **Excel**, a **web dashboard** and a **Power BI project**.
+An end-to-end workforce analytics project built on a simulated Workforce Management environment. It analyzes employee schedules, attendance, workload, productivity and KPI performance using **Excel**, a **web dashboard**.
 
 <!-- ![<img width="828" height="790" alt="Screenshot 2026-10-01 at 11 27 00" src="https://github.com/user-attachments/assets/cdca79c8-c342-438c-ac19-2c042eb42a49" />
 <img width="1081" height="815" alt="Screenshot 2026-10-01 at 11 27 46" src="https://github.com/user-attachments/assets/00f9e24a-1713-489f-8175-978b654d8565" />
